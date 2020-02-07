@@ -56,10 +56,9 @@ TaggerBot determines all the above by parsing the text within the document and u
 7.	Change directory to the directory where TaggerBot is stored
 > cd my_directory
 8.	Run TaggerBot’s tagger command, stating the inputFolder and outputFolder as parameters
-> `python Taggerbot.tagger(inputFolder, outputFolder)`
+> `python Taggerbot.tagger(inputFolder)`
 
 > `inputFolder` is the folder which contains the files to be tagged
-> `outputFolder` is the folder where TaggerBot’s output should be stored
 
 
 
