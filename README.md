@@ -54,7 +54,7 @@ TaggerBot determines all the above by parsing the text within the document and u
 > `java -jar "path\to\tika-server-1.22.jar"`
 6.	Start Python Command Prompt
 7.	Change directory to the directory where TaggerBot is stored
-> cd my_directory
+> `cd my_directory
 8.	Run TaggerBot’s tagger command, stating the inputFolder and outputFolder as parameters
 > `python Taggerbot.tagger(inputFolder)`
 
