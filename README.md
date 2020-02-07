@@ -15,11 +15,6 @@ TaggerBot was originally built to solve an enterprise problem my client (a large
 TaggerBot determines all the above by parsing the text within the document and using machine learning algorithms and rule-based programming to determine the apprpriate metadata tags. Note that TaggerBot was trained specifically for this corporation and therefore, would need to be trained with new data for other companies and use cases.
 
 
-## High Level TaggerBot Process
-
-
-
-
 ## Metadata
 
 1. **Document Type**: TaggerBot uses a Multilayer Perceptron Classifier algorithm to determine the document type of the document.The document type is a signle label field with 11 classes.
