@@ -21,7 +21,7 @@ TaggerBot determines all the above by parsing the text within the document and u
 
 2. **Subject Area**: TaggerBot uses a Linear Support Vector Classifier algorithm to determine the subject area of the document. The subject area field is a mult-label field with 8 classes.
 
-3. **Contains Sensitive Data**: TaggerBot uses a Linear Support Vector Classifier algorithm to determine whether or not a document contains sensitive data. This is a binary class field.
+3. **Contains Sensitive Data**: TaggerBot uses a Linear Support Vector Classifier algorithm to determine whether or not a document contains sensitive data. In this case, sensitive data is archaeological information. This is a binary class field. 
 
 4. **Document Summary**: Taggerbot uses an extractive text summarization algorithm to give a brief summary of all documents.
 
