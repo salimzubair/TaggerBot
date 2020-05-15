@@ -2,7 +2,7 @@
 
 TaggerBot is a machine learning application that reads unstructured documents and applies Natural Language Processing (NLP) and Natural Language Understanding (NLU) techniques to provide summaries, metadata and structure to files in document repositories. TaggerBot adds context to otherwise meaningless collections of unstructured information and assists users in information retrieval.
 
-TaggerBot was originally built to solve an enterprise problem my client (a large public sector company with 2 million customers) had with their files. My client, as well as other companies, had a problem of having more documents than they could read or make sense of. TaggerBot was built to automatically classify millions of documents. TaggerBot classifies whether a document is useful to keep or transitory, it also determines the following:
+TaggerBot is developed for enterprise knowledge discovery and document classification. TaggerBot classifies whether a document is useful to keep or transitory, it also determines the following:
 
 - The document type
 - The subject of the document
